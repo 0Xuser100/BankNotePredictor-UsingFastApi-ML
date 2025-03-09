@@ -1,1 +1,1 @@
-# BankNotePredictorUsingFastApi-Predict-real-vs.-fake-banknotes-using-ML
+# BankNotePredictor-UsingFastApi-Predict-real-vs.-fake-banknotes-using-ML
