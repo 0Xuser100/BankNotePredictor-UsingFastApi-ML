@@ -1,4 +1,5 @@
-
+## Kaggle Notebook  
+[🔗 View the Kaggle Notebook](https://www.kaggle.com/code/triblex/banknotepredictor-usingfastapi-ml-99-accuracy)
 ```markdown
 # Bank Note Authentication
 
