@@ -1,0 +1,7 @@
+numpy==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+matplotlib==3.10.1
+pandas==2.2.3
+fastapi==0.115.11
+uvicorn==0.34.0
